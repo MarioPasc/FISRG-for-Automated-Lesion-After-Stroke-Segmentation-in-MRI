@@ -53,5 +53,9 @@ If you use this algorithm or find this project helpful, please cite:
 }
 ```
 
+## Some visuals obtained 
+![Experiment3Results](Animations/exp3.gif)
+
+
 ## Contact
 For any queries, please reach out to [mario.pg02@gmail.com].
