@@ -58,7 +58,7 @@ If you use this algorithm or find this project helpful, please cite:
 <p align="center">
   <img src="Animations/exp3.gif" alt="Experiment 3 Results"/>
 </p>
-
+(If you don't see the gif moving, press F5 or click in the image)
 
 ### Segmentation comparison among experiments
 <p align="center">
