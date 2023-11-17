@@ -30,6 +30,7 @@ pip install matplotlib
 pip install nibabel
 pip install scikit-learn
 
+```
 
 ## Contributing
 Contributions to this project are welcome. 
