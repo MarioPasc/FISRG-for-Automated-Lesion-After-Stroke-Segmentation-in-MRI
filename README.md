@@ -54,7 +54,16 @@ If you use this algorithm or find this project helpful, please cite:
 ```
 
 ## Some visuals obtained 
-![Experiment3Results](Animations/exp3.gif)
+### Experiment 3 Results
+<p align="center">
+  <img src="Animations/exp3.gif" alt="Experiment 3 Results"/>
+</p>
+
+
+### Segmentation comparison among experiments
+<p align="center">
+  <img src="Images/slice77.png" alt="Comparison"/>
+</p>
 
 
 ## Contact
