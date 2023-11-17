@@ -53,6 +53,17 @@ If you use this algorithm or find this project helpful, please cite:
 }
 ```
 
+## Results Overview
+Dice coefficient for each Experiment between the predicted mask and the ground truth mask. 
+
+| Statistic | Experiment 1 | Experiment 2 | Experiment 3 |
+|-----------|--------------|--------------|--------------|
+| mean      | 0.849        | 0.865        | 0.881        |
+| std       | 0.071        | 0.039        | 0.034        |
+| min       | 0.481        | 0.742        | 0.771        |
+| max       | 0.934        | 0.942        | 0.942        |
+
+
 ## Some visuals obtained 
 ### Experiment 3 Results
 <p align="center">
