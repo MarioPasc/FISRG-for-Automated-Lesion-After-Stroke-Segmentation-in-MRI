@@ -54,7 +54,7 @@ If you use this algorithm or find this project helpful, please cite:
 ```
 
 ## Results Overview
-Dice coefficient for each Experiment between the predicted mask and the ground truth mask. 
+Dice coefficient for each Experiment between the predicted mask and the ground truth mask. The algorithm effectively segments the stroke lesion with a maximum dice coefficient of 94.2% and archieves the highest average accuracy in Experiment 3, with an average dice coefficient of 88.1%
 
 | Statistic | Experiment 1 | Experiment 2 | Experiment 3 |
 |-----------|--------------|--------------|--------------|
@@ -75,6 +75,12 @@ Dice coefficient for each Experiment between the predicted mask and the ground t
 <p align="center">
   <img src="Images/slice77.png" alt="Comparison"/>
 </p>
+
+<p align="center">
+  <img src="Images/slice120.png" alt="Comparison"/>
+</p>
+
+
 
 
 ## Contact
