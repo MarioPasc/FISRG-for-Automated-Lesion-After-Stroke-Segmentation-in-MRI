@@ -84,4 +84,4 @@ Dice coefficient for each Experiment between the predicted mask and the ground t
 
 
 ## Contact
-For any queries, please reach out to [mario.pg02@gmail.com].
+For any queries, please reach out to my [LinkedIn](https://www.linkedin.com/in/mario-pascual-gonzalez). 
