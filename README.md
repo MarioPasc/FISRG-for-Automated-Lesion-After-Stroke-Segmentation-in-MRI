@@ -48,9 +48,16 @@ If you use this algorithm or find this project helpful, please cite:
 @article{FISRGStrokeMario,
   title={Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images},
   author={Mario Pascual González},
-  journal = {ArXiv},
-  year={2023}
+  journal={ArXiv},
+  year={2023},
+  eprint={2311.11742},
+  archivePrefix={arXiv},
+  primaryClass={eess.IV},
+  doi={10.48550/arXiv.2311.11742},
+  pages={10},
+  note={14 figures. Associated code and data available online}
 }
+
 ```
 
 ## Results Overview
